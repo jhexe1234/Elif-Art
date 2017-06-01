@@ -1,4 +1,7 @@
-# Elif-Art
+# Elif Art
+
+# QR code
+![alt text](https://goo.gl/sLgO2A.qr "QR Code")
 
 # Cover 1
 
